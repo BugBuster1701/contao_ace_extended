@@ -1,4 +1,7 @@
-contao_ace_extended
+Contao ACE Extended
 ===================
 
 Erweitert den ACE Editor in Contao
+
+* Textarea von Einzeilig auf Mehrzeilig
+
